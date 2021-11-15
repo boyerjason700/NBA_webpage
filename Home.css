@@ -1,6 +1,5 @@
  .u-section-1 {
   background-image: linear-gradient(0deg, rgba(41,46,51,0.75), rgba(41,46,51,0.75)), url("images/TheRinger_Top25NBAPlayers_2.jfif");
-  background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
@@ -32,7 +31,7 @@
   text-transform: none;
   text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
   width: 839px;
-  margin: 74px auto 0;
+  margin: 1px auto 0;
 }
 
 .u-section-1 .u-btn-1 {
@@ -47,6 +46,10 @@
 }
 
 @media (max-width: 1199px) {
+   .u-section-1 {
+    background-position: 50% 50%;
+  }
+
   .u-section-1 .u-sheet-1 {
     min-height: 758px;
   }
@@ -54,6 +57,11 @@
   .u-section-1 .u-text-1 {
     margin-left: 41px;
     margin-right: 41px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 51px;
+    margin-right: 51px;
   }
 }
 
@@ -129,7 +137,7 @@
 .u-section-2 .u-image-1 {
   min-height: 305px;
   pointer-events: auto;
-  background-image: url("images/HWLPwLOGO.png");
+  background-image: url("images/de6bd1510db13c3507652a6e17018e9c.jpg");
   background-position: 50% 50%;
 }
 
@@ -152,8 +160,8 @@
 
 .u-section-2 .u-image-3 {
   min-height: 305px;
-  background-image: url("images/miami-heat-2021-2022-nba-season-preview-16910267-scaled.jpg");
-  background-position: 50% 50%;
+  background-image: url("images/TMFwLOGO.png");
+  background-position: 50% 0%;
 }
 
 .u-section-2 .u-container-layout-3 {
@@ -161,25 +169,13 @@
   padding: 30px;
 }
 
-.u-section-2 .u-image-4 {
-  min-height: 305px;
-  background-image: url("images/TPP48wLOGO.png");
-  background-position: 50% 50%;
-  animation-duration: 1000ms;
-}
-
-.u-section-2 .u-container-layout-4 {
-  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
-  padding: 30px;
-}
-
-.u-section-2 .u-layout-cell-5 {
+.u-section-2 .u-layout-cell-4 {
   min-height: 610px;
   pointer-events: auto;
   background-image: none;
 }
 
-.u-section-2 .u-container-layout-5 {
+.u-section-2 .u-container-layout-4 {
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
   padding: 30px 60px;
 }
@@ -223,11 +219,7 @@
     min-height: 251px;
   }
 
-  .u-section-2 .u-image-4 {
-    min-height: 251px;
-  }
-
-  .u-section-2 .u-layout-cell-5 {
+  .u-section-2 .u-layout-cell-4 {
     min-height: 503px;
     margin: 20px auto 0 0;
   }
@@ -259,15 +251,11 @@
     min-height: 385px;
   }
 
-  .u-section-2 .u-image-4 {
-    min-height: 385px;
-  }
-
-  .u-section-2 .u-layout-cell-5 {
+  .u-section-2 .u-layout-cell-4 {
     min-height: 100px;
   }
 
-  .u-section-2 .u-container-layout-5 {
+  .u-section-2 .u-container-layout-4 {
     padding-left: 30px;
     padding-right: 30px;
   }
@@ -309,16 +297,7 @@
     padding-right: 10px;
   }
 
-  .u-section-2 .u-image-4 {
-    min-height: 578px;
-  }
-
   .u-section-2 .u-container-layout-4 {
-    padding-left: 10px;
-    padding-right: 10px;
-  }
-
-  .u-section-2 .u-container-layout-5 {
     padding-left: 10px;
     padding-right: 10px;
   }
@@ -342,10 +321,6 @@
   }
 
   .u-section-2 .u-image-3 {
-    min-height: 364px;
-  }
-
-  .u-section-2 .u-image-4 {
     min-height: 364px;
   }
 } .u-section-3 {
@@ -665,7 +640,7 @@
     margin-left: initial;
   }
 } .u-section-5 {
-  background-image: none;
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("images/2726.jpg");
 }
 
 .u-section-5 .u-sheet-1 {
@@ -724,6 +699,10 @@
 }
 
 @media (max-width: 1199px) {
+   .u-section-5 {
+    background-position: 50% 50%;
+  }
+
   .u-section-5 .u-sheet-1 {
     min-height: 689px;
   }
@@ -782,7 +761,7 @@
     height: 1481px;
   }
 }.u-section-6 .u-sheet-1 {
-  min-height: 619px;
+  min-height: 679px;
 }
 
 .u-section-6 .u-list-1 {
@@ -975,21 +954,21 @@
     margin-left: initial;
   }
 } .u-section-7 {
-  min-height: 318px;
   background-image: none;
 }
 
 .u-section-7 .u-sheet-1 {
-  min-height: 655px;
+  min-height: 680px;
 }
 
 .u-section-7 .u-layout-wrap-1 {
   pointer-events: auto;
-  margin: 0 auto 0 0;
+  margin-top: 56px;
+  margin-bottom: 56px;
 }
 
 .u-section-7 .u-layout-cell-1 {
-  min-height: 655px;
+  min-height: 568px;
   pointer-events: auto;
 }
 
@@ -1002,7 +981,7 @@
   width: 114px;
   background-image: none;
   color: rgb(255, 255, 255) !important;
-  margin: 108px auto 0;
+  margin: 77px auto 0;
 }
 
 .u-section-7 .u-text-1 {
@@ -1014,7 +993,7 @@
 }
 
 .u-section-7 .u-image-1 {
-  min-height: 655px;
+  min-height: 568px;
   pointer-events: auto;
   background-image: url("images/3233566b05f1825b314b2540f6fdaa26.jpg");
   background-position: 50% 50%;
@@ -1025,21 +1004,20 @@
 }
 
 @media (max-width: 1199px) {
+   .u-section-7 {
+    min-height: 318px;
+  }
+
   .u-section-7 .u-sheet-1 {
     min-height: 203px;
   }
 
-  .u-section-7 .u-layout-wrap-1 {
-    margin-right: initial;
-    margin-left: initial;
-  }
-
   .u-section-7 .u-layout-cell-1 {
-    min-height: 540px;
+    min-height: 468px;
   }
 
   .u-section-7 .u-image-1 {
-    min-height: 540px;
+    min-height: 468px;
   }
 }
 
@@ -1062,7 +1040,7 @@
   }
 
   .u-section-7 .u-image-1 {
-    min-height: 414px;
+    min-height: 358px;
   }
 
   .u-section-7 .u-container-layout-2 {
@@ -1078,7 +1056,7 @@
   }
 
   .u-section-7 .u-image-1 {
-    min-height: 621px;
+    min-height: 537px;
   }
 
   .u-section-7 .u-container-layout-2 {
@@ -1089,6 +1067,6 @@
 
 @media (max-width: 575px) {
   .u-section-7 .u-image-1 {
-    min-height: 391px;
+    min-height: 338px;
   }
 }
