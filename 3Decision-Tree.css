@@ -116,7 +116,7 @@
     min-height: 257px;
   }
 }.u-section-2 .u-sheet-1 {
-  min-height: 2435px;
+  min-height: 3239px;
 }
 
 .u-section-2 .u-text-1 {
@@ -126,20 +126,20 @@
 
 .u-section-2 .u-text-2 {
   text-align: center;
-  margin: 0 78px;
+  margin: -13px 78px 0;
 }
 
 .u-section-2 .u-text-3 {
   animation-duration: 100ms;
   text-align: center;
   width: 748px;
-  margin: 0 auto;
+  margin: -32px auto 0;
 }
 
 .u-section-2 .u-text-4 {
   animation-duration: 100ms;
   text-align: center;
-  margin: 0 78px 60px;
+  margin: -22px 78px 0;
 }
 
 @media (max-width: 1199px) {

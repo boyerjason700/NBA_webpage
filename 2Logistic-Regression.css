@@ -177,12 +177,12 @@
     width: 340px;
   }
 }.u-section-3 .u-sheet-1 {
-  min-height: 643px;
+  min-height: 635px;
 }
 
 .u-section-3 .u-text-1 {
   animation-duration: 100ms;
-  margin: 0 45px 60px;
+  margin: -7px 45px 0;
 }
 
 @media (max-width: 1199px) {
